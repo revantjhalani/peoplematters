@@ -39,9 +39,9 @@ print("Question chat1 : ")
 response = chat_engine1.chat(seed + question)
 print("Answer chat1 : ")
 print(response)
-
-response = chat_engine1.chat(input())
 print("Follow up : ")
+response = chat_engine1.chat(input())
+
 print(response)
 
     # print("Question chat2 : ")
