@@ -32,7 +32,7 @@ preseed = "Limit yourself to only the JSON provided and do not go out of scope a
 postseed = '? Give me top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product is the product name(the name field in the json), and reason is the reason that product is a good fit for the question asked [{"product" : "", "reason" : ""}, {"product" : "", "reason" : ""}, etc]. Give the answer in the provided JSON format only'
 
 seed = 'The provided JSON is a list of products, the products being the name field in the json. Limit yourself to only the JSON provided, Give the top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product is the product name(the name field in the json, not features), and reason is the reason that product is a good fit for the question asked [{"product" : "", "reason" : ""}, {"product" : "", "reason" : ""}, ... ]. Give the answer in the provided JSON format only The question is: '
-question = "best mental wellness products"
+question = "what are the best mental wellness products"
 
 # while True:
 print("Question chat1 : ")
