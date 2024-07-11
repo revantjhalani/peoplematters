@@ -4,9 +4,7 @@ from llama_index.llms.ollama import Ollama
 from llama_index.core.indices.struct_store import JSONQueryEngine
 import json
 
-documents = SimpleDirectoryReader(
-    input_files=["products.json"]
-).load_data()
+
 
 # bge embedding model
 Settings.embed_model = resolve_embed_model("local:BAAI/bge-small-en-v1.5")
@@ -14,8 +12,8 @@ Settings.embed_model = resolve_embed_model("local:BAAI/bge-small-en-v1.5")
 # ollama
 Settings.llm = Ollama(model="mistral", request_timeout=30.0)
 
-products = open('products.json')
-schema = open("schema.json")
+products = json.load(open('products.json'))
+schema = json.load(open("schema.json"))
 
 
 nl_query_engine = JSONQueryEngine(
