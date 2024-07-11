@@ -1,0 +1,1001 @@
+[
+{
+    "id": 324,
+    "name": "Truworth Wellness",
+    "description": "Truworth holds an industry experience of over 5 years of implementing successful wellness programs across various top organizations across India. Our mission is to help you gain a competitive edge by promoting a culture of health & wellbeing throughout your organization. Truworth Wellness was founded in 2011 with the core mission of promoting the culture of preventive wellness across various organizations. We started off by providing employee health checkups & biometric screenings and slowly diversified into providing a complete end to end employee health benefits solution.",
+    "features": [
+      "Pharmacy Reimbursements",
+      "Health Checks",
+      "Mental Wellness"
+    ],
+    "founders": [
+      "Rohit Chohan  "
+    ],
+    "price": [],
+    "business_objectives": [
+      "Improve Employee Happiness and Engagement"
+    ],
+    "categories": [
+      "Total Rewards"
+    ],
+    "sub_categories": [
+      "Corporate wellness software",
+      "Benefits administration software",
+      "Health & safety providers"
+    ],
+    "tags": [
+      "Employee benefits",
+      "Employee happiness",
+      "Employee well being",
+      "Employee happiness metrics"
+    ],
+    "headquarter": "Bengaluru, Karnataka",
+    "launch_date": "2008",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "India’s #1 Holistic Corporate Wellness Company",
+    "ProductId": null,
+    "ShortDescription": "Truworth Wellness provides Innovative employee wellness engagement programs & employee assistance programs. ",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Health Risk & Immunity Assessment",
+        "sequence": 0,
+        "description": "Identify the key risk areas to your health & immunity. Take suggested measures to reduce the risks."
+      },
+      {
+        "name": "Wellness Goals",
+        "sequence": 1,
+        "description": "Set your overall wellness goals and the platform will suggest you steps to achieve your goal."
+      },
+      {
+        "name": "Vitals & Wellness Trackers",
+        "sequence": 2,
+        "description": "Whether it is your sleep, steps, mood, sugar, BP, Cholesterol, or Thyroid - the platform has it all to help you track your vitals."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": true,
+    "Large_Enterprise": true,
+    "Small_Enterprise": true,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:24:16.113Z"
+  },
+  {
+    "id": 1727,
+    "name": "Test product pdf",
+    "description": "product",
+    "features": [
+      "feature "
+    ],
+    "founders": [],
+    "price": [
+      {
+        "name": "Name",
+        "type": "Yearly",
+        "price": 5000,
+        "description": "description"
+      }
+    ],
+    "business_objectives": [
+      "Hire Top Talent Faster and More Efficiently"
+    ],
+    "categories": [
+      "Recruiting"
+    ],
+    "sub_categories": [
+      "Background check software"
+    ],
+    "tags": [
+      "Diversity goals"
+    ],
+    "headquarter": "India",
+    "launch_date": "1999",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "headline",
+    "ProductId": null,
+    "ShortDescription": "tagline",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": [
+        {
+          "times": [
+            {
+              "time": "",
+              "minute": "01",
+              "second": "03",
+              "description": "Quick & Easy Data Migration"
+            }
+          ],
+          "header": "Header",
+          "sequence": 0,
+          "videourl": "https://www.youtube.com/watch?v=JffXaGsYiNw",
+          "description": "desc"
+        }
+      ]
+    },
+    "HCM_INTEGRATION": [
+      "test hcms"
+    ],
+    "Highlights": [
+      {
+        "name": "header",
+        "sequence": 0,
+        "description": "desc"
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": true,
+    "Global_Enterprise": false,
+    "Large_Enterprise": false,
+    "Small_Enterprise": true,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": true,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-06-21T10:02:12.990Z"
+  },
+  {
+    "id": 583,
+    "name": "Finnpartners",
+    "description": "In December 2011, FINN Partners was born. I served 11 years as the co-CEO of a historic agency that carried my father’s name – and mine. Yet after 30-plus years of working at that firm, I realized I wanted to build something different – something bold, meaningful, and amazing for clients, our colleagues, and the communities in which we operate. “Amazing” was, and is, for me an important word. I imagined we could be “amazing” every day. I aimed to create a place where talented people could gather – virtually or in person – and do big things for clients, and make a difference in the communities important to us.",
+    "features": [
+      "Environment and Sustainability",
+      "Corporate Social Responsibility",
+      "Manufacture and Trade"
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Improve Employee Happiness and Engagement"
+    ],
+    "categories": [
+      "Total Rewards",
+      "Learning and Development"
+    ],
+    "sub_categories": [
+      "Health & safety providers",
+      "Training eLearning software"
+    ],
+    "tags": [
+      "Employee engagement",
+      "Employee well being",
+      "Employee benefits"
+    ],
+    "headquarter": "New York, New York",
+    "launch_date": "2011",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "Who we are drives everything we do.",
+    "ProductId": null,
+    "ShortDescription": "1400+ People. 3 Continents. 34 Offices. We are a global integrated marketing agency transforming and inspiring the world of communications every day.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Global, Independent Communications Agency",
+        "sequence": 0,
+        "description": "According to the document, FINN Partners is a global, independent communications agency [1]. This means that they are a large, international company that is not affiliated with any other agency or organization [1]. This can give them the flexibility and resources to provide a wide range of services to their clients."
+      },
+      {
+        "name": "Diverse Range of Communication Services",
+        "sequence": 1,
+        "description": "The document says that FINN Partners offers a variety of services including brand strategy, content marketing, public relations and influencer marketing [1]. This means that they can help businesses with all aspects of their communications strategy, from developing a brand identity to creating and distributing content to managing media relations and influencer outreach."
+      },
+      {
+        "name": "Committed to Positive Change",
+        "sequence": 2,
+        "description": "The document says that FINN Partners is committed to driving positive change for its people, clients and the world [1]. This suggests that they are a company that is not just focused on profits, but also on making a positive impact on the world. This could be through their work with clients, their commitment to diversity and inclusion, or their support for social and environmental causes."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": false,
+    "Large_Enterprise": false,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:30:28.574Z"
+  },
+  {
+    "id": 703,
+    "name": "IIHT",
+    "description": "IIHT is an Indian training institute that offers courses in hardware and software technologies. The institute has multiple branches across India and provides undergraduate, diploma, and postgraduate diploma programs.",
+    "features": [
+      "Better ROI",
+      "Robust and Scalable",
+      "Mentor on-demand"
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Build a More Diverse and Inclusive Workforce"
+    ],
+    "categories": [
+      "Learning and Development"
+    ],
+    "sub_categories": [
+      "Corporate LMS",
+      "Training & development companies"
+    ],
+    "tags": [
+      "Diversity and inclusion",
+      "Learning analytics"
+    ],
+    "headquarter": "Bengaluru ",
+    "launch_date": "2009",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "OUR PLATFORM. YOUR ARSENAL.",
+    "ProductId": null,
+    "ShortDescription": "Our deep expertise and 25+ years of experience in corporate training enable us to create training programs that deliver highly engaging, immersive learning experiences that ensure learning agility.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Customizable Learning Ecosystems",
+        "sequence": 0,
+        "description": "IIHT offers customizable learning ecosystems that connect workforce learning data and training programs.This means that IIHT can create a learning experience that is tailored to the specific needs of each organization."
+      },
+      {
+        "name": "Variety of Training Delivery Models",
+        "sequence": 1,
+        "description": "IIHT offers a variety of training delivery models, including instructor-led training, online learning, and blended learning . This means that IIHT can provide a training solution that meets the needs of any learner."
+      },
+      {
+        "name": "Hands-on Learning Experiences",
+        "sequence": 2,
+        "description": "IIHT provides hands-on learning experiences that help learners apply their knowledge and skills to real-world situations . This can help learners to retain information and develop the skills they need to be successful in their careers."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": true,
+    "Large_Enterprise": true,
+    "Small_Enterprise": true,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:32:50.847Z"
+  },
+  {
+    "id": 200,
+    "name": "Papaya Global",
+    "description": "Founded in 2016 by Eynat Guez, Ruben Drong, and Ofer Herman, Papaya Global is (finally!) bringing true technological advancements to the very traditional world of payroll – and helping connect the many fragmented dots between finance, HR, and payroll. With this innovative mindset, the company was able to disrupt the space in various ways – from automating what used to be a long list of repetitive manual tasks in hiring, onboarding, and payroll management, to leading the way in remote work and global EoR solutions, all the way to becoming the first global payroll provider to develop its own native payments platform dedicated to the complex and sensitive nuances of payroll.",
+    "features": [
+      "Paternity / Maternity Leave-Ten days on the company account (in addition to any legal benefits)",
+      "Seniority Bonus-$10,000 options grant upon completing three full years at the company",
+      "Learning & Development-Up to $1000 budget for online courses, second language courses, classes, seminars, or other developmental activities (per calendar year, based on company policy)"
+    ],
+    "founders": [
+      "Eynat Guez",
+      "Ofer Herman",
+      "Ruben Drong"
+    ],
+    "price": [],
+    "business_objectives": [
+      "Reduce the Cost of Hiring Qualified Employees"
+    ],
+    "categories": [
+      "HRMS / HCM",
+      "Recruiting",
+      "HRMS",
+      "HCM"
+    ],
+    "sub_categories": [
+      "Human Capital Management",
+      "Staffing & management software"
+    ],
+    "tags": [
+      "Hiring automation",
+      "Data-driven hiring"
+    ],
+    "headquarter": "New York, New York",
+    "launch_date": "2016",
+    "order": null,
+    "weightage": null,
+    "HCM": null,
+    "Headline": "Meet Papaya OS The only payments and payroll platform designed for a global workforce",
+    "ProductId": null,
+    "ShortDescription": "Automate your global payroll & payments.\n Accelerate success.\n Everything you need to grow your company, all on one operating system.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": false,
+    "Large_Enterprise": false,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": true,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:22:22.297Z"
+  },
+  {
+    "id": 1277,
+    "name": "Enparadigm",
+    "description": "enParadigm leverages Generative AI & Immersive AI solutions to create hyper-personalised, immersive experiences, driving business impact and behavioural change across levels and functions. We have been recognized among the fastest growing tech companies in APAC by Deloitte as part of the Deloitte Tech Fast 500 APAC program. We leverage our proprietary simulations, and a rigorous sustained-learning approach. Learn more about our work. ",
+    "features": [
+      "Business acumen",
+      "Sales-force development",
+      "Leadership development"
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Accelerate Skill Development and Learning Efficiency"
+    ],
+    "categories": [
+      "Other / technology"
+    ],
+    "sub_categories": [
+      "Training management system",
+      "Training eLearning software",
+      "Corporate LMS",
+      "Learning Experience Systems (LXPs)",
+      "Training & development companies",
+      "Artificial intelligence"
+    ],
+    "tags": [
+      "Training effectiveness",
+      "Skill acquisition",
+      "Training methodologies",
+      "Recruiting efficiency",
+      "Skill development",
+      "Learning efficiency",
+      "Learning speed",
+      "Learning optimisation",
+      "Adaptive learning",
+      "Personalised learning",
+      "Learning analytics",
+      "Learning retention",
+      "Continuous learning"
+    ],
+    "headquarter": "Maharashtra, Mumbai",
+    "launch_date": "2019",
+    "order": 10,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "Experiential Learning That Works",
+    "ProductId": null,
+    "ShortDescription": "Crafting talent for the Future of Work with world-class Experiential Learning & Talent Intelligence",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Catalyx - Talent Intelligence & Experiential Learning Platform",
+        "sequence": 0,
+        "description": "Enparadigm’s Talent Intelligence & Experiential Learning Platform enables organizations to profile, assess and develop employees’ competencies to achieve role-fit for the Future of Work."
+      },
+      {
+        "name": "Compass - Hybrid Learning Journeys and Talent Development Programs",
+        "sequence": 1,
+        "description": "Enparadigm’s Hybrid Talent Development Programs use our proprietary simulation-driven blended learning methodologies."
+      },
+      {
+        "name": "Confluence - Business simulations platform",
+        "sequence": 2,
+        "description": "Prepare your team for real-world business challenges through immersive business simulations in a safe digital environment."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": false,
+    "Large_Enterprise": true,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": true,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-03-05T11:13:50.796Z"
+  },
+  {
+    "id": 752,
+    "name": "Interview Mocha",
+    "description": "At iMocha, we leverage AI to help you build a skills-first organization by transforming every employee, and every job role into skills with precise proficiency levels. By helping you create taxonomies for job roles, and skills inventories based on your employees, we can turn you into a truly skills-first organization with actionable data. iMocha (formerly known as interview mocha) is an AI-powered Skills Intelligence Cloud, designed to transform how enterprises approach talent management, talent acquisition, and talent development. We're redefining the talent landscape with a skills-first approach. With multi-channel skills validation, AI-powered technology, combined with our comprehensive library of 2500+ skills, we empower you to derive intelligent insights and unleash the full potential of your workforce.Whether it's strategic workforce planning, supporting internal mobility, managing skills gaps, or enhancing employee development, our platform provides you crucial insights to drive HR and business decisions to become a truly Skills-First organization.",
+    "features": [
+      "Largest Skills Assessment Library",
+      "AI-powered Technology",
+      "Multi-channel Validation"
+    ],
+    "founders": [
+      "Sujit Karpe"
+    ],
+    "price": [],
+    "business_objectives": [
+      "Boost Hiring Manager Confidence and Productivity"
+    ],
+    "categories": [
+      "Recruiting"
+    ],
+    "sub_categories": [
+      "Recruiting software",
+      "Pre-employment screening software",
+      "Pre-employment testing software",
+      "Recruiting automation software",
+      "Talent acquisition suites",
+      "Applicant tracking system (ATS)",
+      "Video interviewing software"
+    ],
+    "tags": [
+      "Hiring",
+      "Recruiting",
+      "Hiring manager confidence",
+      "Hiring manager productivity",
+      "Hiring efficiency",
+      "Quality of hire",
+      "Hiring tools",
+      "Hiring process optimization",
+      "Hiring automation",
+      "Hiring analytics",
+      "Data-driven hiring",
+      "Hiring best practices",
+      "Talent acquisition"
+    ],
+    "headquarter": "Claymont, Delaware",
+    "launch_date": "2015",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "Brewing a Skills-first Planet",
+    "ProductId": null,
+    "ShortDescription": "Traditional talent acquisition, and talent management no longer works, because formal jobs can no longer keep up with the changing demands of work and skills.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": false,
+    "Large_Enterprise": false,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:33:46.566Z"
+  },
+  {
+    "id": 1343,
+    "name": "EasyUni",
+    "description": "Launched in 2012, EasyUni is the first company in Southeast Asia and Middle East to bring over 3,000 universities and colleges from over 20 countries in one website, helping students and parents search, compare and connect with university counselors. We have offices in 3 countries, 30 employees, and serve thousands of students and parents every month.",
+    "features": [
+      "A website with information about universities and colleges ",
+      "Counseling services for students and parents",
+      "Digital marketing services"
+    ],
+    "founders": [],
+    "price": [
+      {
+        "name": "",
+        "type": "",
+        "price": "",
+        "description": ""
+      }
+    ],
+    "business_objectives": [
+      "Accelerate Skill Development and Learning Efficiency"
+    ],
+    "categories": [
+      "Learning and Development"
+    ],
+    "sub_categories": [
+      "Corporate LMS"
+    ],
+    "tags": [
+      "Continous learning",
+      "Learning optimisation"
+    ],
+    "headquarter": "Mutiara Damansara, Selangor",
+    "launch_date": "2012",
+    "order": 999,
+    "weightage": null,
+    "HCM": null,
+    "Headline": "Best IDEA is boss",
+    "ProductId": null,
+    "ShortDescription": "EasyUni help students find the right university in Malaysia and abroad.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": [
+        {
+          "times": [
+            {
+              "time": "",
+              "minute": "",
+              "second": "",
+              "description": ""
+            }
+          ],
+          "header": "",
+          "sequence": 0,
+          "videourl": "",
+          "description": ""
+        }
+      ]
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "",
+        "sequence": 0,
+        "description": ""
+      }
+    ],
+    "Approved": false,
+    "Claimed": false,
+    "Demo_Available": true,
+    "Global_Enterprise": false,
+    "Large_Enterprise": false,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": true,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": true,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-03-11T13:45:17.901Z"
+  },
+  {
+    "id": 30,
+    "name": "compup",
+    "description": "CompUp empowers total rewards teams to close the pay gap and build a fair compensation structure. Create & share secure compensation bands, run budget simulations, manage employee increments, auto-generate rewards, and offer a holistic total rewards package - all in one place.",
+    "features": [
+      "Secure Compensation Band Management",
+      "Streamlined Budget & Increment Management",
+      "Holistic Total Rewards Communication"
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Improve Employee Happiness and Engagement"
+    ],
+    "categories": [
+      "Total Rewards"
+    ],
+    "sub_categories": [
+      "Benefits administration software",
+      "Compensation management software",
+      "Benefits administration services",
+      "Performance management solutions",
+      "Performance Review software",
+      "Sales compensation software"
+    ],
+    "tags": [
+      "Employee engagement",
+      "Employee happiness",
+      "Employee satisfaction",
+      "Employee well being",
+      "Employee benefits",
+      "Employee empowerment"
+    ],
+    "headquarter": "Bengaluru, Karnataka",
+    "launch_date": "2020",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "Helping companies to make fair pay a reality",
+    "ProductId": null,
+    "ShortDescription": "Make Compensation Decisions Scientific, Seamless and Equitable",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Compensation Management",
+        "sequence": 0,
+        "description": "Master over 50% of your organizational costs with data-driven compensation strategies."
+      },
+      {
+        "name": "HireSure.ai",
+        "sequence": 1,
+        "description": "Craft irresistible offers and build engaging workflows that candidates love."
+      },
+      {
+        "name": "People Analytics",
+        "sequence": 2,
+        "description": "Unlock workforce insights and make data-supported choices for optimal performance."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": true,
+    "Large_Enterprise": true,
+    "Small_Enterprise": true,
+    "Main_Home": null,
+    "Most_Searched": true,
+    "New_Arrival": null,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-01-10T07:19:33.782Z"
+  },
+  {
+    "id": 46,
+    "name": "HR Anexi / Mentoria",
+    "description": "HR Anexi empowers HR to lead organizational transformation, offering a comprehensive suite of services for family-owned businesses. From aligning HR strategy with business goals to performance management and employee development, we provide a one-stop solution. Our collaborative approach fosters modern HR practices, ensuring businesses thrive with actionable insights and enhanced employee engagement.",
+    "features": [
+      "Customized HR Strategy",
+      "Actionable & Scalable HR Plans",
+      "Business-Driven Focus"
+    ],
+    "founders": [
+      "Usha Arora"
+    ],
+    "price": [],
+    "business_objectives": [
+      "Improve Employee Happiness and Engagement"
+    ],
+    "categories": [
+      "Total Rewards"
+    ],
+    "sub_categories": [
+      "Employee recognition software",
+      "Performance management system",
+      "Performance management solutions",
+      "Performance Review software"
+    ],
+    "tags": [
+      "Employee engagement",
+      "Employee satisfaction",
+      "Employee benefits",
+      "Employee recognition",
+      "Employee empowerment"
+    ],
+    "headquarter": "Mumbai, Maharashtra",
+    "launch_date": "2007",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "HR Anexi Makes a Difference, Every Single Day",
+    "ProductId": null,
+    "ShortDescription": "HR Anexi helps unlock your people potential",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Full-Spectrum HR Support",
+        "sequence": 0,
+        "description": "Manage all your HR needs, from structure & performance to compensation & rightsizing."
+      },
+      {
+        "name": "Data-Driven Insights",
+        "sequence": 1,
+        "description": "Conduct employee surveys, assess talent & culture, and identify training needs for strategic HR decisions."
+      },
+      {
+        "name": " Top Talent Acquisition",
+        "sequence": 2,
+        "description": "Leverage their proven process to find and place high-performing leaders for your organization."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": true,
+    "Large_Enterprise": true,
+    "Small_Enterprise": true,
+    "Main_Home": null,
+    "Most_Searched": true,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-15T12:05:33.474Z"
+  },
+  {
+    "id": 1254,
+    "name": "e2i",
+    "description": "e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives.",
+    "features": [
+      "The Career Trial Programme is part of the suite of career services offered by Workforce Singapore (WSG) and e2i to strengthen the employability of locals, through a short-term stint with an employer",
+      "Providing One-Stop, Personalised Services for Your Manpower and Training Needs",
+      "e2i works with businesses to create customised professional development programmes which can range from one-off half day masterclasses to in-house training modules and week-long courses for their employees and other select participants."
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Boost Hiring Manager Confidence and Productivity"
+    ],
+    "categories": [
+      "Talent Management",
+      "Recruiting"
+    ],
+    "sub_categories": [
+      "Workforce management",
+      "HR management suites",
+      "Staffing services providers",
+      "Job boards",
+      "Recruitment agencies",
+      "HR consulting providers"
+    ],
+    "tags": [
+      "Quick Hiring",
+      "Hiring speed",
+      "Recruiting efficiency"
+    ],
+    "headquarter": "Singapore",
+    "launch_date": "2008",
+    "order": null,
+    "weightage": true,
+    "HCM": null,
+    "Headline": "Career Guidance for Singaporeans. Professional Development and Productivity Solutions for Companies. Connect with us!",
+    "ProductId": null,
+    "ShortDescription": "e2i is the empowering network for workers and employers seeking employment and employability solutions.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [
+      "Institute Of Singapore Chartered Accountants",
+      "Accounting and Corporate Regulatory Authority",
+      "Society of Tourist Guide Singapore"
+    ],
+    "Highlights": [
+      {
+        "name": "Career Conversion Programmes",
+        "sequence": 0,
+        "description": "Career Conversion Programmes (CCPs) are placement programmes targeted at mid-career switchers, to undergo skills conversion and move into new occupations or sectors that have good prospects and opportunities for progression. Trainees will undergo structured on-the-job training to transit into the new job role."
+      },
+      {
+        "name": "Place and Train without Conversion Programmes",
+        "sequence": 1,
+        "description": "Trainees will undergo structured on-the-job training of up to three months to be upskilled into their new job roles.  e2i works with our partners to develop such programmes to help address manpower shortages in many industries and to tackle skills-gaps among job seekers interested in taking on the available jobs."
+      },
+      {
+        "name": "Professional Development Programmes",
+        "sequence": 2,
+        "description": "e2i works with businesses to create customised professional development programmes which can range from one-off half day masterclasses to in-house training modules and week-long courses for their employees and other select participants. "
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": true,
+    "Large_Enterprise": false,
+    "Small_Enterprise": true,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": true,
+    "PublishedAt": "2024-03-05T11:13:19.350Z"
+  },
+  {
+    "id": 951,
+    "name": "Optum",
+    "description": "Optum is a leading health solution and care delivery organization. Our work is complex, but our mission is simple: create a healthier world, with you at the center. At Optum, we bring together advanced data and technology, deep clinical experience and professional partnerships — making health care smarter and simpler for you. Optum, part of the UnitedHealth Group family of businesses, is powering modern health care by connecting and serving the whole health system across 150 countries. We combine cutting-edge technology, the world’s largest health care database and vast expertise to improve health care delivery, quality and efficiency. We are revolutionizing health care that serves more than 100,000 physicians, practices and other health care facilities, as well as 127 million individual consumers",
+    "features": [
+      "Well-being Programs and Services",
+      "Financial Fitness Benefits",
+      "Competitive Compensation Opportunities"
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Improve Employee Happiness and Engagement"
+    ],
+    "categories": [
+      "Total Rewards"
+    ],
+    "sub_categories": [
+      "Corporate wellness software",
+      "Health & safety providers",
+      "Benefits administration software"
+    ],
+    "tags": [
+      "Employee well being",
+      "Employee engagement",
+      "Employee Benefits",
+      "Employee hapiness",
+      "Employee happiness metrics"
+    ],
+    "headquarter": "Eden Prairie , MN",
+    "launch_date": "2011",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "Looking ahead to a healthy new year",
+    "ProductId": null,
+    "ShortDescription": "Optum is a health services and innovation company on a mission to help people live healthier lives and to help make the health system work better for everyone.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": false,
+    "Large_Enterprise": false,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:37:32.787Z"
+  },
+  {
+    "id": 864,
+    "name": "Mentogram",
+    "description": "Mentogram is a Mentor-led Workforce Accelerator. Our mission is to make college accessible for millions. We partner with universities to launch accelerator-style degrees and certification programs for students and corporates to drive engagement, retention and addressing critical skill gaps in Business Education, Gen AI, Digital Skills, and Soft Skills. Our platform supports personalized upskilling pathways, tokenized gamification, mentoring circles, networking corner and AI-driven career assessments.",
+    "features": [
+      "Ready to deploy next-gen mentorship programme templates",
+      "First in kind leadership training centered along mentoring and coaching skills",
+      "Customized solutions to strengthen the learning and development initiatives of the company"
+    ],
+    "founders": [],
+    "price": [],
+    "business_objectives": [
+      "Accelerate Skill Development and Learning Efficiency"
+    ],
+    "categories": [
+      "Learning and Development"
+    ],
+    "sub_categories": [
+      "Training eLearning software",
+      "Training management system"
+    ],
+    "tags": [
+      "Skill development",
+      "Skill acquisition",
+      "Adaptive learning"
+    ],
+    "headquarter": "Menlo Park, California",
+    "launch_date": "2021",
+    "order": null,
+    "weightage": false,
+    "HCM": null,
+    "Headline": "Build a future-ready\n workforce through next-gen mentoring",
+    "ProductId": null,
+    "ShortDescription": "Mentogram is a Mentor-led Workforce Accelerator. Our mission is to make college accessible for millions.",
+    "Company": [],
+    "CrossSells": [],
+    "DemoDetails": {
+      "title": "",
+      "videos": []
+    },
+    "HCM_INTEGRATION": [],
+    "Highlights": [
+      {
+        "name": "Industry-Embedded Learning",
+        "sequence": 0,
+        "description": "Mentogram offers industry-embedded learning programs [1]. This means that their programs are designed to give you the skills and experience you need to succeed in the real world. The programs are developed in collaboration with industry professionals, so you can be sure that you are learning the latest in-demand skills."
+      },
+      {
+        "name": "Bridging the Skills Gap",
+        "sequence": 1,
+        "description": "Mentogram helps to bridge the gap between what is taught in academia and what is required in the workplace [1]. Their programs are taught by experienced practitioners who can provide you with real-world insights and guidance."
+      },
+      {
+        "name": "Comprehensive Learning Platform",
+        "sequence": 2,
+        "description": "Mentogram's platform offers a variety of features to support your learning, such as mentor-mentee matching, peer-to-peer networking, learning pathways, and Zoom integration [1]. This means that you can connect with mentors and peers, track your progress, and learn at your own pace."
+      }
+    ],
+    "Approved": null,
+    "Claimed": true,
+    "Demo_Available": false,
+    "Global_Enterprise": true,
+    "Large_Enterprise": true,
+    "Small_Enterprise": false,
+    "Main_Home": null,
+    "Most_Searched": false,
+    "New_Arrival": false,
+    "Normal": true,
+    "Pricing_Available": false,
+    "Saved": false,
+    "Sponsored": false,
+    "Spotlight": false,
+    "PublishedAt": "2024-02-28T06:35:55.590Z"
+  }
+]

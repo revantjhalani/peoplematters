@@ -1,0 +1,102 @@
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "description": "Unique identifier for the company."
+        },
+        "name": {
+            "type": "string",
+            "description": "Company name."
+        },
+        "description": {
+            "type": "string",
+            "description": "Detailed description of the company and its services."
+        },
+        "features": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Key features or services offered by the company."
+        },
+        "founders": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "List of company founders (if available)."
+        },
+        "price": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "type": {"type": "string"},
+                    "price": {"type": "integer"},
+                    "description": {"type": "string"}
+                },
+                "required": ["name", "type", "price"]
+            },
+            "description": "Pricing information (if available)."
+        },
+        "business_objectives": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Objectives the company helps customers achieve."
+        },
+        "categories": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Broad industry categories for the company (e.g., HRMS, Learning and Development)."
+        },
+        "sub_categories": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "More specific sub-categories within the industry (e.g., Corporate wellness software, Recruiting automation software)."
+        },
+        "tags": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Relevant keywords or phrases associated with the company."
+        },
+        "headquarter": {
+            "type": "string",
+            "description": "Company headquarters location."
+        },
+        "launch_date": {
+            "type": "string", 
+            "description": "Year the company was launched."
+        },
+        "Headline": {
+            "type": "string",
+            "description": "Company's tagline or slogan."
+        },
+        "ShortDescription": {
+            "type": "string",
+            "description": "Brief company summary."
+        },
+        "Highlights": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "sequence": {"type": "integer"},
+                    "description": {"type": "string"}
+                },
+                "required": ["name", "description"]
+            },
+            "description": "Key highlights or unique selling points."
+        }
+    }
+}
