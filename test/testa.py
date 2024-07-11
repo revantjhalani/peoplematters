@@ -22,5 +22,5 @@ postseed = '? Use the JSON entries named features and description to formulate a
 
 query_engine = index.as_query_engine()
 
-response1 = str(query_engine.query(preseed + "What are the best mental health products" + postseed))
+response1 = str(query_engine.query(preseed + "What are the best mental health products that gives Psychiatrists" + postseed))
 print(response1)
