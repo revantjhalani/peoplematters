@@ -17,10 +17,10 @@ Settings.llm = Ollama(model="mistral", request_timeout=30.0)
 index = VectorStoreIndex.from_documents(
     documents,
 )
-#preseed = "Limit yourself to only the JSON list provided and do not go out of scope and give me answer to the question: "
-#postseed = '? Use the JSON entries named features and description to formulate an answer, do not use any entries apart from these, Give me top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product-name is the product name, and reason is the reason that product is a good fit for the question asked [{"product-name" : "", "reason" : ""}, {"product-name" : "", "reason" : ""}, etc]. Only give responses with the product-name and the reason you formulate, use no other entry as a response. Give the answer in the provided JSON format only'
+preseed = "Limit yourself to only the JSON list provided and do not go out of scope and give me answer to the question: "
+postseed = '? Use the JSON entries named features and description to formulate an answer, do not use any entries apart from these, Give me top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product-name is the product name, and reason is the reason that product is a good fit for the question asked [{"product-name" : "", "reason" : ""}, {"product-name" : "", "reason" : ""}, etc]. Only give responses with the product-name and the reason you formulate, use no other entry as a response. Give the answer in the provided JSON format only'
 
 query_engine = index.as_query_engine()
 
-response1 = str(query_engine.query( "Based on the JSON file provided, What are the best mental health products" ))
+response1 = str(query_engine.query(preseed + "What are the best mental health products" + postseed))
 print(response1)
