@@ -12,7 +12,7 @@ documents = SimpleDirectoryReader(
 Settings.embed_model = resolve_embed_model("local:BAAI/bge-small-en-v1.5")
 
 # ollama
-Settings.llm = Ollama(model="phi3:mini", request_timeout=30.0)
+Settings.llm = Ollama(model="mistral", request_timeout=30.0)
 
 index = VectorStoreIndex.from_documents(
     documents,
