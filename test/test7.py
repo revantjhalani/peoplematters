@@ -39,6 +39,11 @@ print("Question chat1 : ")
 response = chat_engine1.chat(seed + question)
 print("Answer chat1 : ")
 print(response)
+
+response = chat_engine1.chat(input())
+print("Follow up : ")
+print(response)
+
     # print("Question chat2 : ")
     # response = chat_engine2.chat(input())
     # print("Answer chat2 : ")
