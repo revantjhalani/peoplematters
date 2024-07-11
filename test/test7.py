@@ -28,7 +28,7 @@ chat_engine1 = index1.as_chat_engine()
 # response = chat_engine1.chat("no Xemplo also does time management, provide me the previous produts with Xemplo")
 # print(response)
 
-preseed = "Limit yourself to only the JSON provided and do not go out of scope and give me answer to the question: "
+preseed = "Limit yourself to only the JSON provided and do not go out of scope and give me answer to the question in JSON format provided at the end of this question: "
 postseed = '? Give me top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product is the product name(the name field in the json), and reason is the reason that product is a good fit for the question asked [{"product" : "", "reason" : ""}, {"product" : "", "reason" : ""}, etc]. Give the answer in the provided JSON format only'
 
 
