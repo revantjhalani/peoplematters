@@ -31,11 +31,12 @@ chat_engine1 = index1.as_chat_engine()
 preseed = "Limit yourself to only the JSON provided and do not go out of scope and give me answer to the question in JSON format provided at the end of this question: "
 postseed = '? Give me top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product is the product name(the name field in the json), and reason is the reason that product is a good fit for the question asked [{"product" : "", "reason" : ""}, {"product" : "", "reason" : ""}, etc]. Give the answer in the provided JSON format only'
 
-
+seed = 'Limit yourself to only the JSON provided, Give the top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product is the product name(the name field in the json, not features), and reason is the reason that product is a good fit for the question asked [{"product" : "", "reason" : ""}, {"product" : "", "reason" : ""}, ... ]. Give the answer in the provided JSON format only The question is: '
+question = "best mental wellness products"
 
 while True:
     print("Question chat1 : ")
-    response = chat_engine1.chat(preseed + " " + input() + " " + postseed)
+    response = chat_engine1.chat(seed + question)
     print("Answer chat1 : ")
     print(response)
     # print("Question chat2 : ")
