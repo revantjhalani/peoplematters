@@ -34,11 +34,11 @@ postseed = '? Give me top 5 results, if there arent 5 then give only those that 
 seed = 'Limit yourself to only the JSON provided, Give the top 5 results, if there arent 5 then give only those that are relevant and do not show what doesnt exist in the provided JSON. Give the answer in the following JSON format where product is the product name(the name field in the json, not features), and reason is the reason that product is a good fit for the question asked [{"product" : "", "reason" : ""}, {"product" : "", "reason" : ""}, ... ]. Give the answer in the provided JSON format only The question is: '
 question = "best mental wellness products"
 
-while True:
-    print("Question chat1 : ")
-    response = chat_engine1.chat(seed + question)
-    print("Answer chat1 : ")
-    print(response)
+# while True:
+print("Question chat1 : ")
+response = chat_engine1.chat(seed + question)
+print("Answer chat1 : ")
+print(response)
     # print("Question chat2 : ")
     # response = chat_engine2.chat(input())
     # print("Answer chat2 : ")
