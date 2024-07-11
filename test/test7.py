@@ -5,7 +5,7 @@ import redis
 import fastapi
 
 documents = SimpleDirectoryReader(
-    input_files=["/root/workspace/peoplematters/test/products.json"]
+    input_files=["/workspace/peoplematters/test/products.json"]
 ).load_data()
 
 # bge embedding model
